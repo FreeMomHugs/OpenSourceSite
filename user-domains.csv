@@ -1,54 +1,54 @@
-id,domains
-0,freemomhugs.org
-1,al.freemomhugs.org
-2,ak.freemomhugs.org
-3,az.freemomhugs.org
-4,ar.freemomhugs.org
-5,ca.freemomhugs.org
-6,co.freemomhugs.org
-7,ct.freemomhugs.org
-8,de.freemomhugs.org
-9,fl.freemomhugs.org
-10,ga.freemomhugs.org
-11,hi.freemomhugs.org
-12,id.freemomhugs.org
-13,il.freemomhugs.org
-14,in.freemomhugs.org
-15,ia.freemomhugs.org
-16,ks.freemomhugs.org
-17,ky.freemomhugs.org
-18,la.freemomhugs.org
-19,me.freemomhugs.org
-20,md.freemomhugs.org
-21,ma.freemomhugs.org
-22,mi.freemomhugs.org
-23,mn.freemomhugs.org
-24,ms.freemomhugs.org
-25,mo.freemomhugs.org
-26,mt.freemomhugs.org
-27,ne.freemomhugs.org
-28,nv.freemomhugs.org
-29,nh.freemomhugs.org
-30,nj.freemomhugs.org
-31,nm.freemomhugs.org
-32,ny.freemomhugs.org
-33,nc.freemomhugs.org
-34,nd.freemomhugs.org
-35,oh.freemomhugs.org
-36,ok.freemomhugs.org
-37,or.freemomhugs.org
-38,pa.freemomhugs.org
-39,ri.freemomhugs.org
-40,sc.freemomhugs.org
-41,sd.freemomhugs.org
-42,tn.freemomhugs.org
-43,tx.freemomhugs.org
-44,ut.freemomhugs.org
-45,vt.freemomhugs.org
-46,va.freemomhugs.org
-47,wa.freemomhugs.org
-48,wv.freemomhugs.org
-49,wi.freemomhugs.org
-50,wy.freemomhugs.org
-51,dc.freemomhugs.org
-52,manh.freemomhugs.org
+country,region,abbreviation,domain
+USA,Alabama,AL,al.freemomhugs.org
+USA,Alaska,AK,ak.freemomhugs.org
+USA,Arizona,AZ,az.freemomhugs.org
+USA,Arkansas,AR,ar.freemomhugs.org
+USA,California,CA,ca.freemomhugs.org
+USA,Colorado,CO,co.freemomhugs.org
+USA,Connecticut,CT,ct.freemomhugs.org
+USA,Delaware,DE,de.freemomhugs.org
+USA,District Of Columbia,DC,dc.freemomhugs.org
+USA,Florida,FL,fl.freemomhugs.org
+USA,Georgia,GA,ga.freemomhugs.org
+USA,Hawaii,HI,hi.freemomhugs.org
+USA,Idaho,ID,id.freemomhugs.org
+USA,Illinois,IL,il.freemomhugs.org
+USA,Indiana,IN,in.freemomhugs.org
+USA,Iowa,IA,ia.freemomhugs.org
+USA,Kansas,KS,ks.freemomhugs.org
+USA,Kentucky,KY,ky.freemomhugs.org
+USA,Louisiana,LA,la.freemomhugs.org
+USA,Maine,ME,me.freemomhugs.org
+USA,Maryland,MD,md.freemomhugs.org
+USA,Massachusetts,MA,ma.freemomhugs.org
+USA,Michigan,MI,mi.freemomhugs.org
+USA,Minnesota,MN,mn.freemomhugs.org
+USA,Mississippi,MS,ms.freemomhugs.org
+USA,Missouri,MO,mo.freemomhugs.org
+USA,Montana,MT,mt.freemomhugs.org
+USA,Nebraska,NE,ne.freemomhugs.org
+USA,Nevada,NV,nv.freemomhugs.org
+USA,New Hampshire,NH,nh.freemomhugs.org
+USA,New Jersey,NJ,nj.freemomhugs.org
+USA,New Mexico,NM,nm.freemomhugs.org
+USA,New York,NY,ny.freemomhugs.org
+USA,North Carolina,NC,nc.freemomhugs.org
+USA,North Dakota,ND,nd.freemomhugs.org
+USA,Ohio,OH,oh.freemomhugs.org
+USA,Oklahoma,OK,ok.freemomhugs.org
+USA,Oregon,OR,or.freemomhugs.org
+USA,Pennsylvania,PA,pa.freemomhugs.org
+USA,Rhode Island,RI,ri.freemomhugs.org
+USA,South Carolina,SC,sc.freemomhugs.org
+USA,South Dakota,SD,sd.freemomhugs.org
+USA,Tennessee,TN,tn.freemomhugs.org
+USA,Texas,TX,tx.freemomhugs.org
+USA,Utah,UT,ut.freemomhugs.org
+USA,Vermont,VT,vt.freemomhugs.org
+USA,Virginia,VA,va.freemomhugs.org
+USA,Washington,WA,wa.freemomhugs.org
+USA,West Virginia,WV,wv.freemomhugs.org
+USA,Wisconsin,WI,wi.freemomhugs.org
+USA,Wyoming,WY,wy.freemomhugs.org
+USA,Southern California,SOCAL,socal.freemomhugs.org
+USA,USA,,freemomhugs.org
